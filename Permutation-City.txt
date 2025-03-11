@@ -1,0 +1,35 @@
+Thinking about computers, some may come to a heuristic of "Compute, memory,and
+I/O". This makes sense; a computer has a processor, processing electrical information 
+stored in either the ssd or hdd, or the input from a keyboard or mouse. 
+
+There are other things to take into consideration, of course, but
+the heuristic stands. 
+
+Now, this is slightly boring, isn't it. Try teaching a kid about the
+intricacies of a cpu's microarchitecture, or the difference in
+structure between a Disk and Flip-Flip Gates.
+
+But what if we analogized this heuristic into something more interesting
+
+Greg Egan, author of Permutation City, asks a question; What is the difference
+between a representation, and that which is represented?
+
+Or, in the immortal words of my lord and savior, Charles Peirce; what is the
+difference between a sign, and the interpretation of the sign?
+
+Well, a sign has an object, while an interpretant can be treated as a sign with
+its own object, but again, lets not make this technical.
+
+Memory is the internal information that is stored in a computer. Most of the
+time, it either stands for instructions, or data that is manipulated by the
+instructions.
+
+Take language itself. There are Verbs, Subjective Nouns, and Objective Nouns, 
+which are affected by the Verb through the Subject. 
+
+Now, as easy as it is for us to use these words; Verbs, Nouns, Adjectives,
+Determiners, Prepositions, Pro-nouns, and god knows how much else; to 
+represent reality, to help us understand everything around and about us...
+
+
+Why not do the same with computer memory?
